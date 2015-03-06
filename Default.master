@@ -1,0 +1,49 @@
+<%@	Master Language="C#" CodeFile="Default.master.cs" Inherits="Default_master"	%>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head runat="server">
+	<title>Dominic Burford</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="description" content="Dominic Burford personal web site" />
+	<meta name="keywords" content="dominic,burford,dominic burford,DomBurf, personal web site,dominic web site,dominic resume,dominic site, dominic twitter, vegetarian, Audax, long distance cycling, dominic blog, blog,heretic, atheist" />
+</head>
+<body>
+
+	<form id="form1" runat="server">
+
+		<div class="header">
+			<h1>Dominic Burford</h1>
+			<h2>My Personal Site</h2>
+			<asp:menu id="menua" runat="server" 
+				datasourceid="SiteMapDataSource1" 
+				cssclass="menua" 
+				orientation="Horizontal" 
+				maximumdynamicdisplaylevels="0" 
+				skiplinktext="" 
+				staticdisplaylevels="2" />
+		</div>
+
+		<asp:contentplaceholder id="Main" runat="server" />
+
+		<div class="footerbg">
+			<div class="footer">
+				<%--<asp:menu id="menub" runat="server" 
+					datasourceid="SiteMapDataSource1" 
+					cssclass="menub"
+					orientation="Horizontal" 
+					maximumdynamicdisplaylevels="0" 
+					skiplinktext="" 
+					staticdisplaylevels="2" />--%>
+				Copyright &copy; Dominic Burford.<br />
+				Created by Dominic Burford using <strong>ASP.NET</strong> and <strong>.NET Framework 4.5</strong> and powered by <strong>Microsoft Azure</strong> <br />
+			</div>
+		</div>
+
+		<asp:sitemapdatasource id="SiteMapDataSource1" runat="server" startingnodeoffset="0" />
+	
+	</form>
+	
+</body>
+</html>

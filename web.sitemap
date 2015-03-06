@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+	  <siteMapNode title="Home" url="Default.aspx">
+		<siteMapNode title="Resume" url="Resume.aspx" />
+		<siteMapNode title="Links" url="Links.aspx" />
+	</siteMapNode>
+</siteMap>
