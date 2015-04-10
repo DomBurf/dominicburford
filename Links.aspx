@@ -26,7 +26,9 @@
                 <dt><a href="http://www.codeproject.com/Articles/DomBurf#tips" target="_blank">Code Project Tips</a> </dt>
                 <dd>Tips I have submitted for Code Project</dd>
                 <dt><a href="http://www.codeproject.com/Articles/811464/Introduction-to-Xamarin-Android" target="_blank">Best Mobile Article</a> </dt>
-                <dd>Best Mobile Article (Aug 2014) First Prize Code Project</dd>
+                <dd>Best Mobile Article (Aug 2014) First Prize</dd>
+                <dt><a href="CodeProject.aspx" target="_blank">My CodeProject Page</a> </dt>
+                <dd>CodeProject links and blog</dd>
             </dl>
 
             <h4>LinkedIn</h4>
