@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Default.master" AutoEventWireup="true" CodeFile="CodeProject.aspx.cs" Inherits="CodeProject" Title="Dominic Burford | CodeProject" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/Default.master" AutoEventWireup="true" CodeFile="Github.aspx.cs" Inherits="Github" %>
 
 <asp:content id="Content1" contentplaceholderid="Main" runat="server">
 
@@ -6,29 +6,14 @@
     
     <div class="page" id="links">
         <div id="content">
-            <h4>CodeProject</h4>
-            <p>
-                I have been a member of <a href="http://www.codeproject.com/" target="_blank">CodeProject</a> since September 2007. CodeProject is a community for software developers to share and exchange ideas, articles, discussions etc. 
-                I am a regular contributor and author. See the links below to read the content that I have published. 
-            </p>
-            <h3>My Professional Profile</h3>
-            <p>
-                <a href="http://www.codeproject.com/script/Membership/View.aspx?mid=4536963" target="_blank">CodeProject Professionl Profile</a>
-            </p>
-            <h3>My Articles</h3>
-            <p>
-                <a href="http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=4536963" target="_blank">Articles I have submitted for CodeProject</a>
-            </p>
-            <h3>My Tips</h3>
-            <p>
-                <a href="http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=4536963" target="_blank">Tips I have submitted for CodeProject</a>
-            </p>
-            <h4>My CodeProject Blog</h4>
+            
+            <h4>My Github Activity Feed</h4>
             <dl>
                 <p>
-                    I use my CodeProject blog for my technology musings, opinions and other more informal content. These may (or may not) form the basis
-                    of a future article. When I stumble across something interesting that is technology related, then this is the place I use
-                    to discuss it. 
+                    I use Github to upload and share my code with others. If I think something
+                    I have developed may benefit others then I'm happy to share my code with the 
+                    development community. My source code repositories implement a range of 
+                    different technologies including ASP.NET, WCF, JSON Web Token, Razor to name a few.
                 </p>
                 <asp:GridView ID="gvRss" runat="server" AutoGenerateColumns="false" ShowHeader="false" Width="100%">
                     <Columns>
@@ -65,7 +50,6 @@
                     </Columns>
                 </asp:GridView>
             </dl>
-            <p><b>More blog posts can be found on my <a href="http://www.codeproject.com/script/Membership/View.aspx?mid=4536963" target="_blank">CodeProject Professionl Profile</a></b></p>
         </div>
     </div>
 </asp:content>

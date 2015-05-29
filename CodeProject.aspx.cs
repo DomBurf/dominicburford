@@ -13,7 +13,6 @@ public partial class CodeProject : System.Web.UI.Page
 
     private void PopulateRssFeed()
     {
-        //const string rssFeedUrl = "http://www.codeproject.com/WebServices/MessageRSS.aspx?fid=461731";
         string rssFeedUrl = ConfigurationManager.AppSettings["RssFeedUrl"];
         List<Feeds> feeds = new List<Feeds>();
         XDocument xDoc = XDocument.Load(rssFeedUrl);

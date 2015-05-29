@@ -151,7 +151,7 @@ h4 {
 	background-image: url(images/body-repeat.gif);
 	position: relative;
 	width: 686px;
-	padding: 0px 37px;
+    padding: 0px 37px;
 	padding-top: 1px; /* Weird Mozilla Bug */
 	padding-bottom: 40px; /* Weird Mozilla Bug */
 }

@@ -31,17 +31,15 @@
 			<hr	/>
 
 			<h4>About me </h4>
-			<p>My name is Dominic Burford.  I am a father, geek, award winning technical author, cyclist, animal lover, vegetarian, heretic, independent thinker and atheist.
-			I have many interests and passions and want to live my life to the full.  I do not pretend to have all the answers, but see life as a journey of continual
-			learning through experience.  Knock me down and I will get up again, but stronger.</p>
-			<p>I am not afraid to defend what I believe is right, and to speak my mind on issues that I believe to be important.  I am a fearless heretic who is not afraid to stand up 
-			against dogma.  As a member of <a href="http://www.peta.org/" target="_blank">PETA</a> I campaign for the rights of animals, and to end animal cruelty. </p>
-			<p>I am passionate about technology, and would describe myself as cutting edge.  I love developing software applications using the latest
-		 technologies.  I am constantly seeking out and trying to learn new technological skills. I am also an award winning technical author. See my <a href="Resume.aspx">resume</a> for
-			more details.</p>
-			<p>I love cycling, and cycle everywhere and anywhere.  My passion is for long distance cycling, where stamina is the key.  As a member of <a href="http://www.aukweb.net/" target="_blank">Audax</a> 
-			I regularly ride distances of 200k (125m) and upwards.  See my <a href="http://openzine.com/publisherzine.aspx-ID=5005.html" target="_blank">cycling reports</a> for details of my cycling adventures.  
-            There can be no greater feeling than cycling along on a quiet road on a bright sunny day.</p>
+			<p>My name is Dominic Burford.  I am a father, geek, award winning technical author, cyclist, animal lover, vegetarian and atheist.
+            I enjoy a good beer, a fine wine and good music. 
+            <p>I have many interests and passions and want to live my life to the full. I do not pretend to have all the answers, 
+            but see life as a journey of continual learning through experience.  Knock me down and I will get up again, but stronger.</p>
+			<p>As an animal lover and vegetarian I campaign for the rights of animals and to end animal cruelty. </p>
+			<p>As an atheist I believe in science and reason, not faith and superstition. </p>
+            <p>I am passionate about technology, and would describe myself as cutting edge.  I love developing software applications using the latest
+		 technologies.  I am constantly seeking out and trying to learn new technological skills. I am also an award winning technical author.</p>
+			<p>I love cycling, and cycle everywhere and anywhere. There can be no greater feeling than cycling along on a quiet road on a bright sunny day.</p>
 			<p>I aim to inspire and motivate those around me - my family, friends, colleagues and acquaintances.  I try to be both positive, as well as being a positive influence.
 			I am a work in progress.</p>
             <p>These are just a selection of my links. Use the <a href="Links.aspx">Links</a> button to see the complete list.</p>

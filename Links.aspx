@@ -75,37 +75,31 @@
             </dl>
             <h4>Cycling</h4>
             <dl>
-                <dt><a href="http://www.vcac.vegfolk.co.uk/" target="_blank">VC&AC </a></dt>
-                <dd>Vegetarian Cycling and Athletic Club</dd>
                 <dt><a href="http://www.aukweb.net/" target="_blank">Audax UK</a></dt>
                 <dd>Long distance cycling organisation</dd>
                 <dt><a href="http://www.ctc.org.uk/" target="_blank">CTC</a></dt>
                 <dd>Cyclists Touring Club </dd>
-                <dt><a href="http://yacf.co.uk/forum/" target="_blank">YACF</a></dt>
-                <dd>Yet Another Cycling Forum</dd>
-				<dt><a href="http://www.robinmathercycles.co.uk/index.html" target="_blank">Robin Mather Cycles</a></dt>
-                <dd>Master frame builder who made my road bike</dd>
+                <dt><a href="http://www.robinmathercycles.co.uk" target="_blank">Robin Mather Cycles</a></dt>
+                <dd>Frame builder who made my steel road bike</dd>
                 <dt><a href="http://www.konaworld.com/index_en.cfm" target="_blank">Kona Bicycles</a></dt>
                 <dd>Manufacturers of really cool bikes (I own one)</dd>
             </dl>
             <h4>Technology</h4>
             <dl>
-                <dt><a href="http://www.asp.net/" target="_blank">Microsoft ASP.Net</a></dt>
-                <dd>Web development framework from Microsoft</dd>
-                <dt><a href="http://msdn.microsoft.com/en-gb/magazine/default.aspx" target="_blank">MSDN Magazine</a></dt>
-                <dd>Microsoft development resource</dd>
-                <dt><a href="http://www.bcs.org/" target="_blank">BCS</a></dt>
-                <dd>British Computer Society</dd>
-                <dt><a href="http://www.codeproject.com/" target="_blank">Code Project</a></dt>
-                <dd>Free development & design articles</dd>
-				<dt><a href="http://www.code-magazine.com/" target="_blank">Code Magazine</a></dt>
+                <dt><a href="http://www.code-magazine.com/" target="_blank">Code Magazine</a></dt>
                 <dd>Software development magazine</dd>
                 <dt><a href="http://www.joelonsoftware.com/" target="_blank">Joel on Software</a></dt>
                 <dd>Joel Spolsky's home page</dd>
-                <dt><a href="http://www.construx.com/" target="_blank">Steve McConnell</a></dt>
-                <dd>Software development from Steve McConnell</dd>
-                <dt><a href="http://www.construx.com/" target="_blank">Steve McConnell</a></dt>
-                <dd>Software development from Steve McConnell</dd>
+                <dt><a href="http://blog.cleancoder.com/" target="_blank">The Clean Coder Blog</a></dt>
+                <dd>Uncle Bob's blog</dd>
+                <dt><a href="https://scotch.io/" target="_blank">Scotch</a></dt>
+                <dd>Web design and development blog</dd>
+                <dt><a href="http://www.dofactory.com/net/design-patterns" target="_blank">Gang of Four</a></dt>
+                <dd>.NET design patterns</dd>
+                <dt><a href="http://www.blackwasp.co.uk/" target="_blank">Black Wasp</a></dt>
+                <dd>Enterprise software development</dd>
+                <dt><a href="http://www.cuttingedge.it/blogs/steven/" target="_blank">.NET Junkie</a></dt>
+                <dd>Workaholic .NET developer</dd>
             </dl>
             <h4>Music</h4>
             <dl>
@@ -115,6 +109,13 @@
                 <dd><a href="http://www.kingsofleon.com/" target="_blank">Kings of Leon</a></dd>
                 <dt><a href="http://www.editorsofficial.com/" target="_blank">Editors</a></dt>
                 <dd><a href="http://www.coldplay.com/" target="_blank">Coldplay</a></dd>
+            </dl>
+            <h4>Causes and Campaigns</h4>
+            <dl>
+                <dt><a href="http://prostatecanceruk.org/" target="_blank">Prostrate Cancer UK</a></dt>
+                <dd><a href="http://www.blf.org.uk/Home/" target="_blank">British Lung Foundation</a></dd>
+                <dt><a href="http://www.lung.org/" target="_blank">American Lung Assn</a></dt>
+                <dd><a href="https://quitday.org/quit-smoking/" target="_blank">Quit Smoking</a></dd>
             </dl>
         </div>
     </div>
