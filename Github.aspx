@@ -13,7 +13,23 @@
                     I use Github to upload and share my code with others. If I think something
                     I have developed may benefit others then I'm happy to share my code with the 
                     development community. My source code repositories implement a range of 
-                    different technologies including ASP.NET, WCF, JSON Web Token, Razor to name a few.
+                    different technologies including:
+                </p>
+                <ul>
+                    <li>ASP.NET</li>
+                    <li>WCF</li>
+                    <li>JSON Web Token</li>
+                    <li>Razor</li>
+                    <li>Node.js</li>
+                </ul>
+                <strong>Links to my Github pages</strong>
+                <ul>
+                    <li><a href="https://github.com/DomBurf" target="_blank">My Github repositories</a></li>
+                    <li><a href="https://gist.github.com/DomBurf" target="_blank">My Github gists</a></li>
+                </ul>
+                                
+                <p>
+                    <h3><asp:Label runat="server" ID="lblGitHeader"></asp:Label></h3>
                 </p>
                 <asp:GridView ID="gvRss" runat="server" AutoGenerateColumns="false" ShowHeader="false" Width="100%">
                     <Columns>
@@ -38,12 +54,7 @@
                                             <%#Eval("Description") %>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td>&nbsp;</td>
-                                        <td align="right">
-                                            <a href='<%#Eval("Link") %>' target="_blank">Read More...</a>
-                                        </td>
-                                    </tr>
+                                    
                                 </table>
                             </ItemTemplate>
                         </asp:TemplateField>
