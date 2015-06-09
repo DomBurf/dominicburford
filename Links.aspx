@@ -15,8 +15,10 @@
             
             <h4>Github</h4>
             <dl>
-                <dt><a href="http://www.github.com/DomBurf" target="_blank">Github</a> </dt>
-                <dd>My source code respoitories where I freely share my code</dd>
+                <dt><a href="http://www.github.com/DomBurf" target="_blank">Repositories</a> </dt>
+                <dd>My source code respoitories</dd>
+                <dt><a href="http://https://gist.github.com/DomBurf" target="_blank">Gists</a> </dt>
+                <dd>My source code gists and code snippets</dd>
             </dl>
 
             <h4>Code Project</h4>
@@ -107,15 +109,15 @@
                 <dd><a href="http://www.rush.com/" target="_blank">Rush</a></dd>
                 <dt><a href="http://www.redhotchilipeppers.com/home.php" target="_blank">Red Hot Chilli Peppers</a></dt>
                 <dd><a href="http://www.kingsofleon.com/" target="_blank">Kings of Leon</a></dd>
-                <dt><a href="http://www.editorsofficial.com/" target="_blank">Editors</a></dt>
-                <dd><a href="http://www.coldplay.com/" target="_blank">Coldplay</a></dd>
             </dl>
             <h4>Causes and Campaigns</h4>
             <dl>
                 <dt><a href="http://prostatecanceruk.org/" target="_blank">Prostrate Cancer UK</a></dt>
-                <dd><a href="http://www.blf.org.uk/Home/" target="_blank">British Lung Foundation</a></dd>
-                <dt><a href="http://www.lung.org/" target="_blank">American Lung Assn</a></dt>
-                <dd><a href="https://quitday.org/quit-smoking/" target="_blank">Quit Smoking</a></dd>
+                <dd><a href="https://uk.movember.com/" target="_blank">Movember</a></dd>
+                <dt><a href="http://www.blf.org.uk/Home/" target="_blank">British Lung Foundation</a></dt>
+                <dd><a href="http://www.lung.org/" target="_blank">American Lung Assn</a></dd>
+                <dt><a href="https://quitday.org/quit-smoking/" target="_blank">Quit Smoking</a></dt>
+                <dd><a href="https://www.soidog.org/" target="_blank">Soi Dog Foundation</a></dd>
             </dl>
         </div>
     </div>
