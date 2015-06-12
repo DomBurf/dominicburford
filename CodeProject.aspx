@@ -7,6 +7,7 @@
     <div class="page" id="links">
         <div id="content">
             <h4>CodeProject</h4>
+            <a href="http://www.codeproject.com" target="_blank"><img src="Images/logo120x60.gif" alt="codeproject logo" /></a>
             <p>
                 I have been a member of <a href="http://www.codeproject.com/" target="_blank">CodeProject</a> since September 2007. CodeProject is a community for software developers to share and exchange ideas, articles, discussions etc. 
                 I am a regular contributor and author. See the links below to read the content that I have published. 
