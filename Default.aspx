@@ -17,13 +17,18 @@
        		</div>
 		</div>
 		<div id="content">
-		    <p></p><a href="http://twitter.com/DomBurf" target="_blank"><img src="http://www.twitterbuttons.net/images/ff7%20copy.jpg" title="By: TwitterButtons.net" width="212" height="69" /></a><br /><a href="http://www.twitterbuttons.net">By TwitterButtons.net</a></p>
-			
+		    <a href="http://twitter.com/domburf"><img src="http://www.twitterbutton.com/images/buttons/button_new09a.gif" title="By: TwitterButton.com" /></a><br /><a href="http://www.twitterbutton.com">by TwitterButton.com</a>
 
-            <!-- Place this tag in your head or just before your close body tag -->
-            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-            <!-- Place this tag where you want the +1 button to render -->
-            <g:plusone></g:plusone>
+            <%--<p>
+			    <!-- Place this tag in your head or just before your close body tag -->
+                <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+                <!-- Place this tag where you want the +1 button to render -->
+                <g:plusone></g:plusone>
+            </p--%>>
+            <p>
+                <iframe src="http://www.codeproject.com/members/flair/4536963?show=RepDesignation,MemberTypes,ArticleCount,MessageCount,AvgArtRating,Reputation" 
+            height="200" width="450" scrolling="no" frameborder="no"></iframe>
+            </p>
 
             
             <h3>Welcome	to My Site</h3>
