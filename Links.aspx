@@ -120,9 +120,9 @@
                 <dd><a href="https://uk.movember.com/" target="_blank">Movember</a></dd>
                 <dt><a href="http://www.blf.org.uk/Home/" target="_blank">British Lung Foundation</a></dt>
                 <dd><a href="http://www.lung.org/" target="_blank">American Lung Assn</a></dd>
-                <dt><a href="https://quitday.org/quit-smoking/" target="_blank">Quit Smoking</a></dt>
-                <dd><a href="https://www.soidog.org/" target="_blank">Soi Dog Foundation</a></dd>
-                <dt><a href="https://quitsmokingcommunity.org/" target="_blank">Quit Smoking Community</a></dt>
+                <dt><a href="https://quitday.org/" target="_blank">Quit Smoking</a></dt>
+                <dd><a href="https://quitsmokingcommunity.org/" target="_blank">Quit Smoking Community</a></dd>
+                <dt><a href="https://www.soidog.org/" target="_blank">Soi Dog Foundation</a></dt>
             </dl>
         </div>
     </div>

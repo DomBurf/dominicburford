@@ -12,6 +12,11 @@
                 <a class="twitter-timeline" href="https://twitter.com/DomBurf" data-widget-id="514433098797162496">Tweets by @DomBurf</a>
                 <script>    !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
 
+                <p>I use the following hash tags:</p> 
+                <p><strong>#domblog</strong> (for my CodeProject blog tweets)</p>
+                <p><strong>#domrunning</strong> (for my running tweets)</p>
+                <p><strong>#domcycling</strong> (for my cycling tweets)</p>
+
 		        <%--<embed src="http://twitter.com/flash/twitter_badge.swf"  flashvars="color1=52275&type=user&id=22368407"  quality="high" width="176" height="176" name="twitter_badge" align="middle" allowScriptAccess="always" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /><br>
 	    	    <a style="font-size: 10px; color: #00CC33; text-decoration: none" href="http://twitter.com/DomBurf">Follow me at http://twitter.com</a>--%>
        		</div>
