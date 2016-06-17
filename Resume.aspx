@@ -30,11 +30,12 @@
 			<br />
 			<br />
 			<p>Burton Latimer, Kettering &nbsp;United Kingdom</p>
-			<p><a href="Documents/resume.doc"><asp:image id="downloadresume" runat="Server" AlternateText="download resume in word format" skinid="dwn_res" /></a></p>
+            <%--<p><a href="Documents/resume.doc"><asp:image id="downloadresume" runat="Server" AlternateText="download resume in word format" skinid="dwn_res" /></a></p>--%>
+            <br/><br/><br/>
 			<h4>Profile</h4>
 			<p class="first">I am a professional software engineer , architect and award winning technical author with over eighteen years commercial development experience, focusing on the <strong>design, development </strong>
 			and <strong>testing</strong> of software solutions using <strong>Microsoft technologies</strong>.
-            <p>I have worked within both the public and private sectors and have worked in industries as diverse as accounting, manufacturing, debt recovery, publishing and healthcare. 
+            <p>I have worked within both the public and private sectors and have worked in industries as diverse as service management, accounting, manufacturing, debt recovery, publishing and healthcare. 
             </p>
             <p>I am a full stack developer with experience of building a wide variety of applications from desktop to web to mobile and tablet using Visual Studio. 
             </p>
@@ -44,16 +45,19 @@
             I have developed enterprise mobile applications for the <strong>Android</strong> platform delivering real-time data securely to tablet devices.
             </p>
             <p>
-             I am a regular contributor / author on <a href="http://www.codeproject.com" target="_blank">CodeProject</a>. CodeProject is a community of software developers and designers to share and exchange ideas and solutions. See my publications listed on my <a href="Links.aspx" target="_blank">Links</a> page.
+             I am a regular contributor / author on <a href="http://www.codeproject.com" target="_blank">CodeProject</a>. CodeProject is a community of software developers and designers to share and exchange ideas and solutions. 
+                See my publications listed on my <a href="Links.aspx" target="_blank">Links</a> page.
             </p>
             <p>
-            I am enthusiastic about <strong>Continuous Integration</strong> (CI) and have setup and configured CI environments from scratch using <strong>CruiseControl.NET</strong> including developing all associated scripts in <strong>Nant</strong>. I enjoy working in <strong>Agile and Test Driven Development (TDD)</strong> environments.
+            I am enthusiastic about <strong>Continuous Integration</strong> (CI) and have setup and configured CI environments from scratch using 
+                <strong>CruiseControl.NET</strong> and <strong>TeamCity</strong> including developing all associated scripts in <strong>NAnt</strong> and <strong>MSBUILD</strong>. 
+                I enjoy working in <strong>Agile</strong> and <strong>Test Driven Development</strong> (TDD) environments.
             </p>
             <p>
             I have full software life-cycle experience gained from roles including systems analyst, technical architect, project manager, tester, developer and software engineer. I have taken projects from inception to delivery.
             </p>
             <p>
-            I am certified in the use of <strong>PRINCE2, ITIL and Software Testing.</strong>
+            I am certified in the use of <strong>PRINCE2, ITIL</strong> and <strong>Software Testing</strong>.
             </p>
             I enjoy learning new skills and make every effort to ensure that my skills are current. I am passionate about technology and can make a positive impact on any employer.</p>
 			<h4>Skills</h4>
@@ -62,7 +66,7 @@
                 <li>Architecting enterprise SOA solutions</li>
 			    <li>SQL Server / Transact SQL</li>
 			    <li>Integrating .NET applications with <strong>SOAP / REST</strong> services</li>
-			    <li>Proven experience of working with <strong>Continuous Integration (CI), Agile and Test Driven Development</strong> </li>
+			    <li>Proven experience of working with <strong>Continuous Integration (CI), Agile</strong> and <strong>Test Driven Development</strong></li>
 			    <li>LINQ, XML, JSON, Web Services, Windows Services, WCF</li>
 			    <li>Web development with JavaScript / JQuery, HTML, ASP.NET</li>
                 <li><strong>Android</strong> development using <a href="http://www.xamarin.com" target="_blank">Xamarin</a></li>
@@ -70,15 +74,15 @@
 			</ul>
 			<h4>Achievements</h4>
             <ul>
+				<li>Winning Best Web Dev article on CodeProject July 2015 for my article <a href="http://www.codeproject.com/Articles/1007871/Prototypal-Inheritance-with-Javascript" target="_blank">Prototypal Inheritance with Javascript</a></li>
                 <li>Winning Best Mobile article on CodeProject August 2014 for my article <a href="http://www.codeproject.com/Articles/811464/Introduction-to-Xamarin-Android" target="_blank">Introduction to Xamarin.Android</a></li>
+                <li>Whilst at <a href="http://www.marval.co.uk" target="_blank">Marval</a> I developed authentication agnostic login functionality allowing support for any authentication provider e.g. Single-Sign-On, ADFS, LDAP, Twitter, Facebook etc.</li>
                 <li>Whilst at <a href="http://www.equita.co.uk" target="_blank">Equita Ltd</a> I worked on a project that allowed enforcement officers to receive notifications from and send updates to their<strong>Android</strong> tablet devices. 
-                This included working on a multi-threaded Android application developed using <strong>Xamarin.Android / MonoDroid</strong> plug-in for Visual Studio implemented using MVC / C#.</li>
-                <li>Integrated <strong>PayPal</strong> into the checkout process of a high volume e-commerce web site to allow payment fulfillment via PayPal. This involved substantial refactoring of the application to achieve this.</li>
-                <li>Whilst at <a href="http://www.cdsglobal.co.uk" target="_blank">CDS Global</a> I was part of the development team that implemented a fully functional web store for purchasing magazine subscriptions online.
-                Written using the modular design pattern of <strong>DotNetNuke</strong> and utilising WCF for communication with the backend purchasing system. Media queries allowed for optimum display on mobile devices such as smart phones and tablets. 
-                The new web store had to be able to integrate seamlessly with the existing checkout process which was currently in use on their existing web store. This was completely re-engineered to use a form post mechanism passing JSON data so as to decouple the two processes. 
-                The technologies involved in this project included <strong>Visual Studio, ASP.NET, MVC, WCF, DotNetNuke, media queries, Azure</strong> (for hosting the test environments)
-                </li>
+                This included working on a multi-threaded Android application developed using <strong>Xamarin</strong>.</li>
+                <li>Whilst at <a href="http://www.cdsglobal.co.uk" target="_blank">CDS Global</a> I integrated <strong>PayPal</strong> into the checkout process of a high volume e-commerce web site to allow payment fulfillment via PayPal. 
+                    This involved substantial refactoring of the application to achieve this.</li>
+                <li>Whilst at <a href="http://www.cdsglobal.co.uk" target="_blank">CDS Global</a> I was part of the development team that implemented a fully functional web store for purchasing magazine subscriptions online 
+                    (including Basket and Checkout functionality).</li>
 			</ul>
 			<h4>Career History</h4>
 
@@ -88,8 +92,8 @@
                 <li>I am part of the software development team where I make significant contributions to their award winning product MSM (Marval Service Management). This is a fully integrated,  enterprise web application in the Service Management domain. 
                 I am involved in the analysis, design and coding of new features and functionality in a loosely coupled and asynchronous manner, as well as re-factoring and re-architecting parts of the application  in line with changing business and infrastructure 
                 requirements. </li>
-                <li>The application suite is implemented using ASP.NET / C# and makes extensive use of Javascript and AJAX to ensure the web forms respond in a timely manner. The application is capable of communicating with both SQL Server and Oracle as its back-end database.  
-                The development environment consists of Visual Studio Team Foundation Server (TFS). The application has a global customer base so making changes without impacting existing customers is technically very challenging.</li>
+                <li>The application suite is implemented using ASP.NET / C# and makes extensive use of Javascript and AJAX to ensure the web forms respond in a timely manner. The development environment consists of Visual Studio Team Foundation Server (TFS). 
+                    The application has a global customer base so making changes without impacting existing customers is technically very challenging.</li>
             </ul>
             <p class="first">January 2014 - November 2014&nbsp; Software Developer.<br />
 				<a href="http://www.equita.co.uk/" target="_blank">Equita Ltd</a> (part of the Capita group), Northampton, Northamptonshire, United Kingdom </p>
@@ -110,7 +114,7 @@
                 <li>Part of the development team that implemented a fully functional web store for purchasing magazine subscriptions online. Written using DotNetNuke and utilising WCF for communication with the backend purchasing system. Media queries allowed for optimum display on mobile devices.</li>
                 <li>Mobile web application development using .NET and 51Degrees.mobi mobile platform</li>
                 <li>Developed solutions using ASP.Net / .Net Framework (VB.Net) including web pages, web services and windows services in collaboration with SQL Server. Also utilised JQuery, Javascript, LINQ, XML and JSON.</li>
-                <li>Development environment consisted of continuous build and integration (nAnt and CruiseControl.Net), unit testing (nUnit), test coverage (nCover) and version control (SVN) in an Agile environment.</li>
+                <li>Development environment consisted of continuous build and integration (Nant and CruiseControl.Net), unit testing (Nunit), test coverage (Ncover) and version control (SVN) in an Agile environment.</li>
             </ul>
 			<p class="first">April 2007 - April 2011&nbsp; Senior Web Developer.<br />
 				<a href="http://www.east-northamptonshire.gov.uk/" target="_blank">East Northamptonshire Council</a>, Thrapston, Northamptonshire, United Kingdom </p>
@@ -161,7 +165,8 @@
 			</ul>
 			<h4>Certificates</h4>
     		<ul>
-				<li>ISEB Foundation Certificate in IT Service Management (ITIL) (8 August 2007)</li>
+                <li>ISEB Foundation Certificate in IT Service Management (ITIL V3) (4 March 2016)</li>
+				<li>ISEB Foundation Certificate in IT Service Management (ITIL V2) (8 August 2007)</li>
 				<li>ISEB Foundation Certificate in PRINCE2 Project Management (11 July 2007)</li>
 				<li>ISEB Foundation Certificate in Software Testing (17 May 2006)</li>
 			</ul>

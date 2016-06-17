@@ -27,6 +27,8 @@
                 <dd>Articles I have submitted for Code Project</dd>
                 <dt><a href="http://www.codeproject.com/Articles/DomBurf#tips" target="_blank">Code Project Tips</a> </dt>
                 <dd>Tips I have submitted for Code Project</dd>
+                <dt><a href="http://www.codeproject.com/Articles/1007871/Prototypal-Inheritance-with-Javascript" target="_blank">Best Web Dev Article</a> </dt>
+                <dd>Best Web Dev Article (July 2015) First Prize</dd>
                 <dt><a href="http://www.codeproject.com/Articles/811464/Introduction-to-Xamarin-Android" target="_blank">Best Mobile Article</a> </dt>
                 <dd>Best Mobile Article (Aug 2014) First Prize</dd>
                 <dt><a href="CodeProject.aspx" target="_blank">My CodeProject Page</a> </dt>
@@ -85,6 +87,8 @@
                 <dd>Frame builder who made my steel road bike</dd>
                 <dt><a href="http://www.konaworld.com/index_en.cfm" target="_blank">Kona Bicycles</a></dt>
                 <dd>Manufacturers of really cool bikes (I own one)</dd>
+                <dt><a href="http://www.wellingboroughcycles.co.uk/" target="_blank">Wellingborough Cycles</a></dt>
+                <dd>Really great bike shop who organise weekend rides</dd>
             </dl>
             <h4>Technology</h4>
             <dl>
@@ -115,8 +119,6 @@
                 <dt><a href="http://prostatecanceruk.org/" target="_blank">Prostrate Cancer UK</a></dt>
                 <dd><a href="https://uk.movember.com/" target="_blank">Movember</a></dd>
                 <dt><a href="http://www.blf.org.uk/Home/" target="_blank">British Lung Foundation</a></dt>
-                <dd><a href="http://www.lung.org/" target="_blank">American Lung Assn</a></dd>
-                <dt><a href="https://quitday.org/quit-smoking/" target="_blank">Quit Smoking</a></dt>
                 <dd><a href="https://www.soidog.org/" target="_blank">Soi Dog Foundation</a></dd>
             </dl>
         </div>
