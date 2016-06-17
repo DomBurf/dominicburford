@@ -119,7 +119,14 @@
                 <dt><a href="http://prostatecanceruk.org/" target="_blank">Prostrate Cancer UK</a></dt>
                 <dd><a href="https://uk.movember.com/" target="_blank">Movember</a></dd>
                 <dt><a href="http://www.blf.org.uk/Home/" target="_blank">British Lung Foundation</a></dt>
+<<<<<<< HEAD
                 <dd><a href="https://www.soidog.org/" target="_blank">Soi Dog Foundation</a></dd>
+=======
+                <dd><a href="http://www.lung.org/" target="_blank">American Lung Assn</a></dd>
+                <dt><a href="https://quitday.org/" target="_blank">Quit Smoking</a></dt>
+                <dd><a href="https://quitsmokingcommunity.org/" target="_blank">Quit Smoking Community</a></dd>
+                <dt><a href="https://www.soidog.org/" target="_blank">Soi Dog Foundation</a></dt>
+>>>>>>> 71059618d591117a7c7fc3ef2598f79f5d865bbf
             </dl>
         </div>
     </div>
